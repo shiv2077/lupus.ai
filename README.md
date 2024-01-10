@@ -59,50 +59,16 @@ Lupus can be of use to the financial sector by detecting fraudulent activities i
 - Integration with mobile devices and biometric authentication for added security and convenience.
 
 
-# Website UI 💻
-
-<img width="400" alt="Screenshot 2023-06-03 at 10 18 54 AM" src="https://github.com/mkswagger/lupus_ai/assets/34826479/74d93089-df17-4d0a-8b0a-3f5e33e72707">
-
-### User Dashboard with details of transactions and graphical data rendered from the ML model in the backend for the transaction
----
-<img width="956" alt="image" src="https://github.com/mkswagger/lupus_ai/assets/34826479/2e69c466-82ea-4769-9ea1-61a898b960b9">
-
 ## ML model of Lupus.ai
 
 The ML model in Lupus.ai employs KNN, Random Forest, and RGB Boost algorithms to detect and prevent financial fraud. Compressed using joblib, the model is seamlessly integrated into the Django server, enabling real-time predictions and efficient communication. It classifies transactions as fraudulent or legitimate, providing prompt actions for fraud prevention. The model's scalability and performance handle large volumes of transactional data, while continuous improvement ensures adaptation to evolving fraud patterns. Lupus.ai's ML model offers accurate and efficient fraud detection, safeguarding financial institutions and providing a secure banking experience.
 
-![image](https://github.com/mkswagger/lupus_ai/assets/34826479/a2223800-34dd-488c-afad-c1cdf5ff37e8)
-![image](https://github.com/mkswagger/lupus_ai/assets/34826479/e66a349a-24e3-45f8-96e8-477d13ec619d)
-![image](https://github.com/mkswagger/lupus_ai/assets/34826479/a905bd16-553a-4388-8255-010788e8fd33)
 
 
-# Getting Started 🔨⚒
-
-Follow these steps to get started with the project:
-
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
-2. Install the required dependencies: `npm install`
-3. Configure the necessary settings and credentials.
-4. Run the application: `npm start`
-
-## Made by Team Lupus for Porfolio Hacks MLH ⛓🖱
-
-### Team Lupus 🐺💜
-
-[Shinjan Patra](https://github.com/flaminshinjan) <br>Role: App Developer
-
-[Mathangy Krishna](https://github.com/mkswagger)      <br>Role: ML Developer
-
-[Tanmay Agarwal](https://github.com/tanmayagrwl)    <br>Role: FrontEnd Developer 
-
-[Jatin Kumar](https://github.com/jatindotdev)    <br>Role: Backend Developer 
 
 
-## License 📜
 
-This project is licensed under the [MIT License](LICENSE).
 
----
 
 
 
